@@ -1,0 +1,2 @@
+C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChickenContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChickenContent\obj\x86\Debug\audio\GameAudio.xml

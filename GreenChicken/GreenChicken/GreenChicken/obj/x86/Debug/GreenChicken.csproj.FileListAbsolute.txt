@@ -1,0 +1,19 @@
+C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChicken\bin\x86\Debug\Content\fonts\scoreFont.xnb
+C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChicken\bin\x86\Debug\Content\fonts\titleFont.xnb
+C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChicken\bin\x86\Debug\Content\audio\bomb-02.xnb
+C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChicken\bin\x86\Debug\Content\audio\bomb-03.xnb
+C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChicken\bin\x86\Debug\Content\audio\phasers3.xnb
+C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChicken\bin\x86\Debug\Content\audio\The Path You Travel.xnb
+C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChicken\bin\x86\Debug\Content\audio\Wireless Menu.xnb
+C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChicken\bin\x86\Debug\Content\BloomCombine.xnb
+C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChicken\bin\x86\Debug\Content\BloomExtract.xnb
+C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChicken\bin\x86\Debug\Content\GaussianBlur.xnb
+C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChicken\bin\x86\Debug\Content\audio\GameAudio.xgs
+C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChicken\bin\x86\Debug\Content\audio\Wave Bank.xwb
+C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChicken\bin\x86\Debug\Content\audio\Sound Bank.xsb
+C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChicken\bin\x86\Debug\GreenChicken.exe
+C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChicken\bin\x86\Debug\GreenChicken.pdb
+C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChicken\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChicken\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChicken\obj\x86\Debug\GreenChicken.exe
+C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChicken\obj\x86\Debug\GreenChicken.pdb

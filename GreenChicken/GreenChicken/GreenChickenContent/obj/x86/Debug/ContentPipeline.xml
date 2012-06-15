@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>fonts\scoreFont.spritefont</Source>
+      <Name>fonts\scoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChicken\bin\x86\Debug\Content\fonts\scoreFont.xnb</Output>
+      <Time>2012-06-14T23:50:06-06:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts\titleFont.spritefont</Source>
+      <Name>fonts\titleFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChicken\bin\x86\Debug\Content\fonts\titleFont.xnb</Output>
+      <Time>2012-06-14T23:50:06-06:00</Time>
+    </Item>
+    <Item>
+      <Source>audio\bomb-02.wav</Source>
+      <Name>audio\bomb-02</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChicken\bin\x86\Debug\Content\audio\bomb-02.xnb</Output>
+      <Time>2012-06-14T23:50:06-06:00</Time>
+    </Item>
+    <Item>
+      <Source>audio\bomb-03.wav</Source>
+      <Name>audio\bomb-03</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChicken\bin\x86\Debug\Content\audio\bomb-03.xnb</Output>
+      <Time>2012-06-14T23:50:06-06:00</Time>
+    </Item>
+    <Item>
+      <Source>audio\phasers3.wav</Source>
+      <Name>audio\phasers3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChicken\bin\x86\Debug\Content\audio\phasers3.xnb</Output>
+      <Time>2012-06-14T23:50:06-06:00</Time>
+    </Item>
+    <Item>
+      <Source>audio\The Path You Travel.wav</Source>
+      <Name>audio\The Path You Travel</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChicken\bin\x86\Debug\Content\audio\The Path You Travel.xnb</Output>
+      <Time>2012-06-14T23:50:06-06:00</Time>
+    </Item>
+    <Item>
+      <Source>audio\Wireless Menu.wav</Source>
+      <Name>audio\Wireless Menu</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChicken\bin\x86\Debug\Content\audio\Wireless Menu.xnb</Output>
+      <Time>2012-06-14T23:50:06-06:00</Time>
+    </Item>
+    <Item>
+      <Source>BloomCombine.fx</Source>
+      <Name>BloomCombine</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChicken\bin\x86\Debug\Content\BloomCombine.xnb</Output>
+      <Time>2012-06-14T23:50:06-06:00</Time>
+    </Item>
+    <Item>
+      <Source>BloomExtract.fx</Source>
+      <Name>BloomExtract</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChicken\bin\x86\Debug\Content\BloomExtract.xnb</Output>
+      <Time>2012-06-14T23:50:06-06:00</Time>
+    </Item>
+    <Item>
+      <Source>GaussianBlur.fx</Source>
+      <Name>GaussianBlur</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChicken\bin\x86\Debug\Content\GaussianBlur.xnb</Output>
+      <Time>2012-06-14T23:50:06-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChickenContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChicken\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChickenContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\dsavage\Desktop\Green Chicken\CodSav-3DGeometryFlight-57a82ed\GreenChicken\GreenChicken\GreenChicken\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-05-14T09:18:45.5392003-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
